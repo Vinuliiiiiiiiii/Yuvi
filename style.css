@@ -1,0 +1,100 @@
+.centered, .program{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fdffea;
+    font-size: 2.5rem;
+    font-family: Cursive;
+  }
+
+
+.top-container {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-bottom: 100px;
+  }
+
+
+div {
+    display: block;
+}
+
+.new {
+    text-decoration: underline;
+}
+
+h1 {
+    font-family: "Lucida Handwriting" , Cursive;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    color: blueviolet;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+h3 {
+    display: block;
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+    text-align: center;
+    color: #D8B4F8;
+}
+
+
+hr {
+    border: dotted;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    color: #EDE4FF;
+}
+
+.gif {
+    float: left;
+}
+
+.you {
+    text-align: left;
+}
+
+.middle-container {
+    margin: 100px;
+    text-align: center;
+}
+
+.yo{
+    color: black;
+}
+
+.btn {
+   background: blueviolet;
+   border-radius: 8px;
+   color: blanchedalmond;
+   font-size: 25px;
+   padding: 15px 20px 15px 20px;
+   text-decoration: none;
+}
+
+.bottem-container {
+    background-color: #D8B4F8;
+    padding: 50px 0 20px;
+}
+
+.copywrite {
+    color: #eaf6f6;
+    font-size: 0.90rem;
+    padding: 40px 0 0 10px;
+}
+
